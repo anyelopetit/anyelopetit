@@ -52,3 +52,10 @@ end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
+
+# Custom gems
+gem 'active_model_serializers'
+gem 'dotenv-rails', groups: %i[development test]
+gem 'hash_dot'
+gem 'rails-erd', group: :development
+gem 'rest-client'
