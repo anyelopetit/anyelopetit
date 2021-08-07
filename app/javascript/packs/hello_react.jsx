@@ -5,9 +5,17 @@
 import React from 'react'
 import ReactDOM from 'react-dom'
 import PropTypes from 'prop-types'
+import Counter from '../components/Counter'
+import List from '../components/List'
+import Form from '../components/Form'
 
 const Hello = props => (
-  <div>Hello {props.name}!</div>
+  <>
+    <h1>Hello {props.name}!</h1>
+    <Counter/>
+    <List/>
+    <Form/>
+  </>
 )
 
 Hello.defaultProps = {
