@@ -14,7 +14,7 @@
 
 <br />
 
-Hi, I'm [Anyelo Petit](https://anyelopetit.herokuapp.com/), a passionate self-taught Fullstack web developer and a software engineer from Venezuela, specialized in Back-End with Ruby on Rails <img src="https://storage.googleapis.com/indie-hackers.appspot.com/group-icons/ruby-on-rails/PWairgiOpneHvkGJri7RVbtORKI2" height=15px /> and Front-End with React <img src="https://i0.wp.com/mia-platform.eu/wp-content/uploads/ReactJs.webp?fit=256%2C256&ssl=1" height=15px /> and Typescript <img src="https://cdn-icons-png.flaticon.com/512/919/919832.png" height=15px />. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+Hi, I'm [Anyelo Petit](https://anyelopetit.github.io/personal-portfolio/), a passionate self-taught Fullstack web developer and a software engineer from Venezuela, specialized in Back-End with Ruby on Rails <img src="https://storage.googleapis.com/indie-hackers.appspot.com/group-icons/ruby-on-rails/PWairgiOpneHvkGJri7RVbtORKI2" height=15px /> and Front-End with React <img src="https://i0.wp.com/mia-platform.eu/wp-content/uploads/ReactJs.webp?fit=256%2C256&ssl=1" height=15px /> and Typescript <img src="https://cdn-icons-png.flaticon.com/512/919/919832.png" height=15px />. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" width="50%" />
   
